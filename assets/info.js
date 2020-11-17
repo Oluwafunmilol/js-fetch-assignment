@@ -31,7 +31,7 @@ getData()
   .catch(err => console.error(err));
 
 async function getData() {
-  const postStream = await fetch('https://jsonplaceholder.typicode.com/posts');
+  const postStream = await fetch('/assets/info.json');
   const posts = await postStream.json();
   let i = 0;
 
@@ -40,7 +40,7 @@ async function getData() {
 
   posts.forEach(post => {
     i++;
-    if(i < 13) {
+    if(i < 10) {
       const title = post.title;
       const body = post.body;
 
