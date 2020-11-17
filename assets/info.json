@@ -1,0 +1,93 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "DOB": "09-06-1982",
+      "MaritalStatus": "Married",
+      "Address": {
+        "Street": "123 Street",
+        "City": "Houston",
+        "State": "TX"
+      },
+      "email": "john.doe@email.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "DOB": "09-06-1989",
+      "MaritalStatus": "Married",
+      "Address": {
+        "Street": "123 Street",
+        "City": "Houston",
+        "State": "TX"
+      },
+      "email": "jane.doe@email.com",
+      "phone": "444-444-4444"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Doe",
+      "DOB": "09-06-2000",
+      "MaritalStatus": "Single",
+      "Address": {
+        "Street": "123 Street",
+        "City": "Houston",
+        "State": "TX"
+      },
+      "email": "bob.doe@email.com",
+      "phone": "333-333-3333"
+    },
+    {
+        "firstName": "Bola",
+        "lastName": "Leo",
+        "DOB": "09-06-2001",
+        "MaritalStatus": "Single",
+        "Address": {
+          "Street": "123 Street",
+          "City": "Houston",
+          "State": "TX"
+        },
+        "email": "bob.doe@email.com",
+        "phone": "444-444-4444"
+      },
+      {
+        "firstName": "Bolu",
+        "lastName": "Deo",
+        "DOB": "09-06-2003",
+        "MaritalStatus": "Single",
+        "Address": {
+          "Street": "123 Street",
+          "City": "Houston",
+          "State": "TX"
+        },
+        "email": "bob.doe@email.com",
+        "phone": "333-213-3333"
+      },
+      {
+        "firstName": "Boaz",
+        "lastName": "Doe",
+        "DOB": "09-06-2007",
+        "MaritalStatus": "Single",
+        "Address": {
+          "Street": "123 Street",
+          "City": "Houston",
+          "State": "TX"
+        },
+        "email": "bob.doe@email.com",
+        "phone": "223-333-3333"
+      },
+      {
+          "firstName": "Bim",
+          "lastName": "Leo",
+          "DOB": "09-06-2008",
+          "MaritalStatus": "Single",
+          "Address": {
+            "Street": "123 Street",
+            "City": "Houston",
+            "State": "TX"
+          },
+          "email": "bob.doe@email.com",
+          "phone": "243-333-3333"
+        }
+  ]
