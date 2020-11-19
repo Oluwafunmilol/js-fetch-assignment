@@ -7,7 +7,7 @@ Learning how to fetch from an API.
 Name and age in years will be required to fill this form and all field must be inputed. 
 
 # Project screenshoot
-![This is an alt text](/assets/images/screenshot.PNG "This is a sample logo")
+![This is an alt text](./assets/images/screenshot.PNG "This is a sample logo")
 
 ## Link
 (https://github.com/Oluwafunmilol/js-fetch-assignment.git)
